@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2022",
+        "module": "es2022",
+        "moduleResolution": "node",
+        "removeComments": false,
+        "outDir": "javascript",
+        "sourceMap": true,
+        "noEmitOnError": true,
+        "alwaysStrict": true,
+        "allowUnreachableCode": false
+    }
+    
+    
+}
